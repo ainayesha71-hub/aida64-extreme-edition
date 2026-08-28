@@ -1,0 +1,6 @@
+{
+  "name": "studio-572c20",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts"
+}
